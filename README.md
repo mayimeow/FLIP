@@ -10,7 +10,7 @@ F.L.I.P. is a gamified, interactive educational platform designed for Computer E
 * **Skill Tree Progression:** Advanced learning modules are locked behind an XP requirement, ensuring foundational mastery before progressing.
 * **The Quiz Arena:** A high-stakes testing environment featuring dynamic UI feedback and an Escalating Penalty System (1m ➜ 5m ➜ 15m lockouts) to prevent brute-force guessing.
 * **Global Leaderboard:** Real-time XP tracking and ranking across the platform, complete with unlockable character avatars.
-* **Admin BI Dashboard:** A simulated Business Intelligence interface tracking global accuracy, average answer times, and highlighting curriculum bottlenecks.
+
 
 ## 🛠 Tech Stack
 
