@@ -37,3 +37,5 @@ F.L.I.P. is a gamified, interactive educational platform designed for Computer E
 * `/src/pages/` - Core routing views (Dashboard, Auth, QuizArena, LearningHub, etc.)
 * `/src/components/LearningModules.jsx` - The core physics and logic engine containing all interactive circuit components.
 * `/src/firebase.js` - Database and Authentication initialization.
+
+* experince it here: https://flip-nine-eta.vercel.app/
