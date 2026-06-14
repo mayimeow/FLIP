@@ -27,3 +27,4 @@ dist-ssr
 
 scripts/serviceAccountKey.json
 Flip Firebase Credentials.txt
+.env

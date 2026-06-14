@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore"; // NEW IMPORT
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBVz7Ncgx7cEzdRnZKuux_lmk48iYIKuo8",
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: "flip-quizzer.firebaseapp.com",
   projectId: "flip-quizzer",
   storageBucket: "flip-quizzer.firebasestorage.app",
